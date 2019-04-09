@@ -16,7 +16,7 @@ NOTE: I ( Marcus Rokatis ) do not own these files. Do therefor not distribute co
 
 About This Pack:
 
-	This Content Pack contains media of Simon Begby ( Game Developer at Coffe Stain Studios ) found on the internet.
+	This Content Pack contains the default contents of the Satisfactory game.
 
 Version:
 
