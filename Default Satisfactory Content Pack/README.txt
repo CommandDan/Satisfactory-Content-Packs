@@ -20,7 +20,7 @@ About This Pack:
 
 Version:
 
-	1.0 for Satisfactory version: Early Access - v0.103 - CL 96731
+	1.0 for Satisfactory version: Early Access - v0.1.12 - Build 99303
 
 ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
 ¤																														¤
@@ -33,7 +33,7 @@ Version:
 
 How to use:
 
-	Copy the 'Content' folder to 'C:\Program Files\Epic Games\SatisfactoryEarlyAccess\FactoryGame\Content'.
+	Copy the 'Content' folder to 'C:\Program Files\Epic Games\SatisfactoryEarlyAccess\FactoryGame'.
 	
 	Enjoy!
 
